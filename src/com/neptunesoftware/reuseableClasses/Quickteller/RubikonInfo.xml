@@ -1,0 +1,27 @@
+<RubikonInfo>
+	<IPAddress>10.152.2.116</IPAddress>
+	<PortNumber>7001</PortNumber>
+	<ChannelId>13</ChannelId>
+	<ChannelCode>MBANK</ChannelCode>
+	<TransactionFee>0.00</TransactionFee>
+	<ChargeCode>139</ChargeCode>
+	<TaxCode>100</TaxCode>
+	<CurrencyCode>NGN</CurrencyCode>
+	
+	<CreditTransCode>CR</CreditTransCode>
+	<DebitTransCode>DR</DebitTransCode>
+	<InternalAcctTransfer>TXN100</InternalAcctTransfer>
+	<ExternalAcctTransfer>TXN101</ExternalAcctTransfer>
+	<ExternalAcctTransReversal>TXN102</ExternalAcctTransReversal>
+	
+	<BillsPaymentCredit>TXN102</BillsPaymentCredit>
+	<BillsPaymentDebit>TXN101</BillsPaymentDebit>
+	<MobileRechargeCredit>TXN103</MobileRechargeCredit>
+	<MobileRechargeDebit>TXN104</MobileRechargeDebit>
+	<AuthenticatedUsername>NEPTUNE</AuthenticatedUsername>
+	<AuthenticatedPassword>NEPTUNEP@55W0RD</AuthenticatedPassword>
+	<TransferLimitInternal>100000</TransferLimitInternal>
+	<TransferLimitExternal>100000</TransferLimitExternal>
+	<ApplicationUsername>SYSTEM</ApplicationUsername>
+	<ChargeCodeBillsPayment>141</ChargeCodeBillsPayment>
+</RubikonInfo>

@@ -1,0 +1,18 @@
+<Databases>
+	<Database>
+		<Type>Oracle</Type>
+		<Username>ADDOSSERTEST</Username>
+		<Password>neptune</Password>
+		<IPAddress>10.152.2.116</IPAddress>
+		<PortNumber>1521</PortNumber>
+		<ServiceName>orclpdb</ServiceName>
+	</Database>
+	<Database>
+		<Type>Sybase</Type>
+		<Username>sa</Username>
+		<Password>csa123</Password>
+		<IPAddress>10.152.2.32</IPAddress>
+		<PortNumber>5000</PortNumber>
+		<ServiceName>banking</ServiceName>
+	</Database>
+</Databases>
